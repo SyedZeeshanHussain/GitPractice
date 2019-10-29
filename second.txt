@@ -1,3 +1,5 @@
 Second file
 
 new line in scond.txt
+
+another line added from GitHub.
